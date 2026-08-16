@@ -1,20 +1,20 @@
 @font-face {
   font-family: 'Cinzel';
-  src: url('https://rawcdn.githack.com/EdoardoStudio/CTStudio-Fonts/raw/refs/heads/main/Cinzel-VariableFont_wght.ttf') format('tff');
+  src: url('https://rawcdn.githack.com/EdoardoStudio/CTStudio-Fonts/raw/refs/heads/main/Cinzel-VariableFont_wght.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Merriweather';
-  src: url('https://rawcdn.githack.com/EdoardoStudio/CTStudio-Fonts/raw/refs/heads/main/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf') format('tff');
+  src: url('https://rawcdn.githack.com/EdoardoStudio/CTStudio-Fonts/raw/refs/heads/main/Merriweather-Italic-VariableFont_opsz,wdth,wght.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Sedan-SC';
-  src: url('https://rawcdn.githack.com/EdoardoStudio/CTStudio-Fonts/raw/refs/heads/main/SedanSC-Regular.ttf') format('tff');
+  src: url('https://rawcdn.githack.com/EdoardoStudio/CTStudio-Fonts/raw/refs/heads/main/SedanSC-Regular.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
